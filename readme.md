@@ -1,0 +1,1 @@
+bu proje kişisel web sayfam için geliştirilmiş olup kendimi tanıtmakta ve  portfoliolarımı barındırmaktadır. 
