@@ -18,10 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Abstract\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\AKAR_EntityLayer\AKAR_EntityLayer.csproj" />
   </ItemGroup>
 

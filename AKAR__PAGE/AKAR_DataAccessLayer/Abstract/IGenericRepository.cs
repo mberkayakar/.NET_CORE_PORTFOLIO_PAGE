@@ -6,17 +6,15 @@ using System.Threading.Tasks;
 
 namespace AKAR_DataAccessLayer.Abstract
 {
-    public interface IGenericRepository <T>
+    public interface IGenericRepository <T>  
     {
         T GetById(int id);
         void Add(T item);
         void Update(T item);
         void Delete(T item);
-
         List<T> GetAll();
 
 
-        //List<T> GetAll(Expression<Func<T, bool>> where = null, params Expression<Func<T, object>>[] includeProperties);
 
 
     }
