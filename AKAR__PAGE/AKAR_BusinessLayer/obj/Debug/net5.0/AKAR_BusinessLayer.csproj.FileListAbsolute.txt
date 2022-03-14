@@ -1,0 +1,12 @@
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\bin\Debug\net5.0\AKAR_BusinessLayer.deps.json
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\bin\Debug\net5.0\AKAR_BusinessLayer.dll
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\bin\Debug\net5.0\AKAR_BusinessLayer.pdb
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\obj\Debug\net5.0\AKAR_BusinessLayer.csproj.AssemblyReference.cache
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\obj\Debug\net5.0\AKAR_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\obj\Debug\net5.0\AKAR_BusinessLayer.AssemblyInfoInputs.cache
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\obj\Debug\net5.0\AKAR_BusinessLayer.AssemblyInfo.cs
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\obj\Debug\net5.0\AKAR_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\obj\Debug\net5.0\AKAR_BusinessLayer.dll
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\obj\Debug\net5.0\refint\AKAR_BusinessLayer.dll
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\obj\Debug\net5.0\AKAR_BusinessLayer.pdb
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_BusinessLayer\obj\Debug\net5.0\ref\AKAR_BusinessLayer.dll

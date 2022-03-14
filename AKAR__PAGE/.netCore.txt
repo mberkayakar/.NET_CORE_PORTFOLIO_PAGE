@@ -1,0 +1,9 @@
+Bir entity framewok core pojesi için 4 adet kütüphane yüklenmesi gerekmektedir.
+
+1.) EntityFramework Core
+
+2.) sql
+
+3.) Tool 
+
+4.) Deising

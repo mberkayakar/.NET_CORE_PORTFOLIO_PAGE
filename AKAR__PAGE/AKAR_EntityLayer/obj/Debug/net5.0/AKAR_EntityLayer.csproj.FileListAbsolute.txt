@@ -1,0 +1,12 @@
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\bin\Debug\net5.0\AKAR_EntityLayer.deps.json
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\bin\Debug\net5.0\AKAR_EntityLayer.dll
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\bin\Debug\net5.0\AKAR_EntityLayer.pdb
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\obj\Debug\net5.0\AKAR_EntityLayer.csproj.AssemblyReference.cache
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\obj\Debug\net5.0\AKAR_EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\obj\Debug\net5.0\AKAR_EntityLayer.AssemblyInfoInputs.cache
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\obj\Debug\net5.0\AKAR_EntityLayer.AssemblyInfo.cs
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\obj\Debug\net5.0\AKAR_EntityLayer.csproj.CoreCompileInputs.cache
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\obj\Debug\net5.0\AKAR_EntityLayer.dll
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\obj\Debug\net5.0\refint\AKAR_EntityLayer.dll
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\obj\Debug\net5.0\AKAR_EntityLayer.pdb
+D:\GİTHUB REPOSİTORY\MURAT YÜCEDAĞ PORTFOLİO PAGE\AKAR__PAGE\AKAR_EntityLayer\obj\Debug\net5.0\ref\AKAR_EntityLayer.dll
